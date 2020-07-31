@@ -1,10 +1,3 @@
-lintian check: debian-watch-does-not-check-gpg-signature
-========================================================
-Upstream does not distribute detatched gpg signatures
-
-https://github.com/pmem/issues/issues/848
-
-
 lintian check: hardening-no-fortify-functions
 =============================================
 This check is raising warnings for the -debug library packages. As their
